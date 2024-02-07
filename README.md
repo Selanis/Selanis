@@ -15,7 +15,7 @@
 </div>
 <br>
 <div id="tg" align="center">
-  <img src="tg.svg" align="left"/>
+  <img src="tg-link.svg" align="left"/>
   <img src="tg-img.svg" align="right"/>
 </div>
 <br>
