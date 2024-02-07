@@ -25,7 +25,4 @@
 </div>
 <br>
 <br>
-<div id="ty" align="center">
-  <img src="ty.svg"/>
-</div>
 
