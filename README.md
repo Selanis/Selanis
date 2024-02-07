@@ -21,11 +21,11 @@
 <div id="tg" align="center">
   <div width="100px"></div>
   <img src="tg-link.svg" align="left"/>
-  <img src="tg-img.svg" align="right"/>
+  <img src="tg-img.svg" align="right" width="450px" height="191px"/>
 </div>
 <br>
 <br>
-<div id="frontend" align="center">
+<div id="ty" align="center">
   <img src="ty.svg"/>
 </div>
 
