@@ -20,8 +20,8 @@
 <br>
 <div id="tg" align="center">
   <div width="100px"></div>
-  <img src="tg-link.svg" align="left"/>
-  <img src="tg-img.svg" align="right" width="450px" height="191px"/>
+  <a href="https://t.me/katrin_polekhova" target="_blank"><img src="tg-link.svg" align="left"/></a>
+  <a href="https://t.me/katrin_polekhova" target="_blank"><img src="tg-img.svg" align="right" width="450px" height="191px"/></a>
 </div>
 <br>
 <br>
