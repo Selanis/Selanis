@@ -13,7 +13,9 @@
 </div>
 <br>
 <br>
-
+<div id="artist" align="center">
+  <img src="artist.svg"/>
+</div>
 <br>
 <br>
 <div id="tg" align="center">
