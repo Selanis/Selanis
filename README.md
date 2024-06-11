@@ -4,7 +4,7 @@
 <br>
 <br>
 <div id="frontend" align="center">
-  <img src="frontend.svg"/>
+  <img src="frontend2.svg"/>
 </div>
 <br>
 <br>
