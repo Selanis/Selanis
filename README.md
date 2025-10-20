@@ -1,4 +1,9 @@
 <div id="header" align="center">
+  <img src="GitHub preview.svg"/>
+</div>
+<br>
+<br>
+<div id="header" align="center">
   <img src="main.svg"/>
 </div>
 <br>
